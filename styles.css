@@ -1,0 +1,29 @@
+body{
+        margin: 0;
+        background-color: black;
+        overflow:hidden;
+        font-size: 28px;
+    }
+    #container{
+        margin:5%;
+    }
+    table{
+        width:500px;
+        height:500px;
+        color:white;
+        background-color: black;
+        border-collapse: collapse;
+        text-align: center;
+        font-weight: bold;
+    }
+    table td{
+        padding:2px;
+        margin:2px;
+        border:2px solid #ccc;
+        border-collapse: collapse;
+        cursor: pointer;
+    }
+    #button{
+        margin-top:2%; 
+        font-size: 24px;
+    }
